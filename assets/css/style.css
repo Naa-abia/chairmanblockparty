@@ -72,6 +72,10 @@ li {
     margin: 0;
     padding: 0;
 }
+
+.it-list li{
+	margin-bottom: 10px;
+}
 fieldset {
     border: 0 none;
     margin: 0 auto;
